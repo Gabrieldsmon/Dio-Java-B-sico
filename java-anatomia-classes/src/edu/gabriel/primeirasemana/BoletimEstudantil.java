@@ -1,3 +1,5 @@
+package edu.gabriel.primeirasemana;
+
 public class BoletimEstudantil {
 
     //Codigo sem Identação
